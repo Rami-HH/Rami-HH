@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 With a background in applied mathematics and modelling, specializing in AI, Data Science, and Machine Learning. My focus is on building intelligent, full-stack systems from agentic AI workflows and LLM applications to computer vision and automation pipelines.  
 
 
